@@ -1,0 +1,39 @@
+
+
+h1, h2, h3 {
+  color: rgb(248, 37, 231);
+  font-style: italic;
+}
+
+button {
+  margin: 5px;
+}
+
+.message {
+  color: grey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 2px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+  
+.error {
+  color: red;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+  
+.notification {
+  color: green;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px
+}

@@ -1,0 +1,12 @@
+post http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: Bearer jailman
+
+{
+    "_id": "5a422a851b54a676234d17f7",
+    "title": "React patterns",
+    "author": "Michael Chan",
+    "url": "https://reactpatterns.com/",
+    "likes": 7,
+    "user": "63f7c47a9d4ce37514a75078"
+}
